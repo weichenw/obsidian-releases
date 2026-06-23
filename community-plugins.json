@@ -2023,13 +2023,6 @@
     "repo": "ozntel/obsidian-link-converter"
   },
   {
-    "id": "obsidian-hypothesis-plugin",
-    "name": "Hypothes.is",
-    "author": "weichenw",
-    "description": "Sync your Hypothesis highlights.",
-    "repo": "weichenw/obsidian-hypothesis-plugin"
-  },
-  {
     "id": "obsidian-another-quick-switcher",
     "name": "Another Quick Switcher",
     "author": "tadashi-aikawa",
